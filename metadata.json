@@ -1,0 +1,6 @@
+{
+  "name": "Sale AI",
+  "description": "Aplikasi pengurusan jualan pintar dengan analisis Gemini AI, kalkulator untung rugi, kalendar bersepadu, dan eksport Excel untuk usahawan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
